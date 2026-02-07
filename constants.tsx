@@ -22,7 +22,7 @@ export const BOOKS: Book[] = [
     description: 'A practical, results-driven guide to rebuilding confidence using Neuro-Linguistic Programming (NLP). Readers learn how to remove limiting beliefs, neutralise fear, and install calm, grounded confidence that can be accessed on demand.',
     philosophy: 'Confidence isn’t something you’re born with — it’s something you can build.',
     category: BookCategory.MINDSET,
-    imageUrl: 'public/rwyb.png'
+    imageUrl: 'rwyb.png'
   },
   {
     id: 'loa-book-one',
